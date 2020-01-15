@@ -1,0 +1,15 @@
+
+service: lambda-authorizer
+
+plugins:
+ serverless-offline
+ serverless-webpack
+
+provider:
+  name: aws
+  stage: desa
+  runtime: nodejs12.x
+
+functions:
+  awtauth:
+    handler: nodejs/index.handler
