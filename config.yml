@@ -1,0 +1,8 @@
+desa:
+  username: 'ReingeCotizadoresUser'
+  password: 'T7YFsc^G:;YLa}ak'
+  userPoolId: 'us-east-2_UvhEsWOPJ'
+  clientId: '4mnd9o9dfu62qgoj74fg26u08i'
+  identityPoolId: "us-east-2:c6291b40-d3b0-4760-a1d2-4a544645ee3a"
+  login: "cognito-idp.us-east-2.amazonaws.com/us-east-2_UvhEsWOPJ"
+test:

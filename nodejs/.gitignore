@@ -1,3 +1,6 @@
 node_modules/
 dist/
 authorizer.zip
+.serverless
+event.json
+awt-auth.json
